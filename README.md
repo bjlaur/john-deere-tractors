@@ -2,9 +2,11 @@
 
 Photographed July 11, 2026. The collection contains 15 distinct tractors in 15 photographs, arranged approximately from oldest to newest by model introduction. Serial numbers, exact model years, hours, running condition, drivetrain operation, hydraulics, brakes, electrical systems, fluid condition, and tire age remain to be verified before sale.
 
+Click any tractor photo to open the full-resolution image.
+
 ## 1. John Deere 720 Gasoline — Wide Front and Power Steering
 
-![John Deere 720 gasoline](photos/01-john-deere-720-gasoline.jpg)
+<a href="photos/01-john-deere-720-gasoline.jpg"><img src="photos/01-john-deere-720-gasoline.jpg" alt="John Deere 720 gasoline" width="600"></a>
 
 - **Approximate year:** 1956–1958.
 - **Configuration:** Late two-cylinder row-crop tractor with the large horizontal gasoline engine, wide front axle, power steering, and open operator station. The visible ignition and fuel-system hardware identifies this tractor as gasoline-powered.
@@ -12,7 +14,7 @@ Photographed July 11, 2026. The collection contains 15 distinct tractors in 15 p
 
 ## 2. John Deere 820/830-Series Two-Cylinder Diesel Project
 
-![John Deere 820/830-series diesel project](photos/02-john-deere-820-830-series-diesel-project.jpg)
+<a href="photos/02-john-deere-820-830-series-diesel-project.jpg"><img src="photos/02-john-deere-820-830-series-diesel-project.jpg" alt="John Deere 820/830-series diesel project" width="600"></a>
 
 - **Approximate year:** 1956–1960.
 - **Configuration:** Large standard-tread two-cylinder diesel from the John Deere 820/830 family with an open operator station. The serial tag will distinguish the exact model and production year.
@@ -20,7 +22,7 @@ Photographed July 11, 2026. The collection contains 15 distinct tractors in 15 p
 
 ## 3. John Deere 3010 Diesel
 
-![John Deere 3010 diesel](photos/03-john-deere-3010-diesel.jpg)
+<a href="photos/03-john-deere-3010-diesel.jpg"><img src="photos/03-john-deere-3010-diesel.jpg" alt="John Deere 3010 diesel" width="600"></a>
 
 - **Approximate year:** 1960–1963.
 - **Configuration:** First-generation New Generation row-crop tractor with a four-cylinder diesel engine, open operator station, and wide front axle.
@@ -28,7 +30,7 @@ Photographed July 11, 2026. The collection contains 15 distinct tractors in 15 p
 
 ## 4. John Deere 3010 Gasoline
 
-![John Deere 3010 gasoline](photos/04-john-deere-3010-gasoline.jpg)
+<a href="photos/04-john-deere-3010-gasoline.jpg"><img src="photos/04-john-deere-3010-gasoline.jpg" alt="John Deere 3010 gasoline" width="600"></a>
 
 - **Approximate year:** 1960–1963.
 - **Configuration:** Four-cylinder gasoline New Generation row-crop tractor with an open operator station. The carburetor and spark-ignition engine hardware are visible through the side opening.
@@ -36,7 +38,7 @@ Photographed July 11, 2026. The collection contains 15 distinct tractors in 15 p
 
 ## 5. John Deere 4010 Diesel — Canopy
 
-![John Deere 4010 diesel](photos/05-john-deere-4010-diesel.jpg)
+<a href="photos/05-john-deere-4010-diesel.jpg"><img src="photos/05-john-deere-4010-diesel.jpg" alt="John Deere 4010 diesel" width="600"></a>
 
 - **Approximate year:** 1960–1963.
 - **Configuration:** Large first-generation New Generation row-crop tractor with a six-cylinder diesel engine, open station, wide front axle, and canopy. Rated output was approximately 84 PTO horsepower.
@@ -44,7 +46,7 @@ Photographed July 11, 2026. The collection contains 15 distinct tractors in 15 p
 
 ## 6. John Deere 4020 Diesel — Tractor No. 1
 
-![John Deere 4020 diesel tractor 1](photos/06-john-deere-4020-diesel-tractor-1.jpg)
+<a href="photos/06-john-deere-4020-diesel-tractor-1.jpg"><img src="photos/06-john-deere-4020-diesel-tractor-1.jpg" alt="John Deere 4020 diesel tractor 1" width="600"></a>
 
 - **Approximate year:** 1963–1972.
 - **Configuration:** Six-cylinder diesel New Generation row-crop tractor with an open operator station, wide front axle, and approximately 96 PTO horsepower.
@@ -52,7 +54,7 @@ Photographed July 11, 2026. The collection contains 15 distinct tractors in 15 p
 
 ## 7. John Deere 4020 Diesel — Tractor No. 2
 
-![John Deere 4020 diesel tractor 2](photos/07-john-deere-4020-diesel-tractor-2.jpg)
+<a href="photos/07-john-deere-4020-diesel-tractor-2.jpg"><img src="photos/07-john-deere-4020-diesel-tractor-2.jpg" alt="John Deere 4020 diesel tractor 2" width="600"></a>
 
 - **Approximate year:** 1963–1972.
 - **Configuration:** Separate six-cylinder diesel 4020 with an open operator station and wide front axle. The side panel identifies the tractor as a 4020 Diesel.
@@ -60,7 +62,7 @@ Photographed July 11, 2026. The collection contains 15 distinct tractors in 15 p
 
 ## 8. John Deere 3020 — Open Station
 
-![John Deere 3020](photos/08-john-deere-3020.jpg)
+<a href="photos/08-john-deere-3020.jpg"><img src="photos/08-john-deere-3020.jpg" alt="John Deere 3020" width="600"></a>
 
 - **Approximate year:** 1964–1972.
 - **Configuration:** Mid-sized New Generation row-crop tractor with an open operator station and wide front axle. The photograph does not expose enough engine hardware to confirm the fuel type.
@@ -68,7 +70,7 @@ Photographed July 11, 2026. The collection contains 15 distinct tractors in 15 p
 
 ## 9. John Deere 2020 — Hood-Removed Repair Project
 
-![John Deere 2020 project](photos/09-john-deere-2020-project.jpg)
+<a href="photos/09-john-deere-2020-project.jpg"><img src="photos/09-john-deere-2020-project.jpg" alt="John Deere 2020 project" width="600"></a>
 
 - **Approximate year:** 1965–1971.
 - **Configuration:** Four-cylinder John Deere 2020 with a wide front axle, open operator station, and canopy. The hood and side panels have been removed, leaving the engine, radiator, wiring, and accessory drive exposed for repair or restoration work.
@@ -76,7 +78,7 @@ Photographed July 11, 2026. The collection contains 15 distinct tractors in 15 p
 
 ## 10. John Deere 2510 Gasoline
 
-![John Deere 2510 gasoline](photos/10-john-deere-2510-gasoline.jpg)
+<a href="photos/10-john-deere-2510-gasoline.jpg"><img src="photos/10-john-deere-2510-gasoline.jpg" alt="John Deere 2510 gasoline" width="600"></a>
 
 - **Approximate year:** 1965–1968.
 - **Configuration:** Lighter New Generation row-crop tractor using a four-cylinder gasoline engine and a modified 3020-style chassis. The distributor and spark-ignition hardware are visible on the engine.
@@ -84,7 +86,7 @@ Photographed July 11, 2026. The collection contains 15 distinct tractors in 15 p
 
 ## 11. John Deere 5020 Diesel — Enclosed Cab
 
-![John Deere 5020 diesel with cab](photos/11-john-deere-5020-diesel-cab.jpg)
+<a href="photos/11-john-deere-5020-diesel-cab.jpg"><img src="photos/11-john-deere-5020-diesel-cab.jpg" alt="John Deere 5020 diesel with cab" width="600"></a>
 
 - **Approximate year:** 1965–1972.
 - **Configuration:** Large two-wheel-drive New Generation tractor with an 8.7-liter six-cylinder diesel, period enclosed cab, and approximately 140 PTO horsepower.
@@ -92,7 +94,7 @@ Photographed July 11, 2026. The collection contains 15 distinct tractors in 15 p
 
 ## 12. John Deere 5020 Diesel — Open Station
 
-![John Deere 5020 diesel open station](photos/12-john-deere-5020-diesel-open-station.jpg)
+<a href="photos/12-john-deere-5020-diesel-open-station.jpg"><img src="photos/12-john-deere-5020-diesel-open-station.jpg" alt="John Deere 5020 diesel open station" width="600"></a>
 
 - **Approximate year:** 1965–1972.
 - **Configuration:** Second 5020 in the collection, equipped with the 8.7-liter six-cylinder diesel and an open operator station rather than an enclosed cab.
@@ -100,7 +102,7 @@ Photographed July 11, 2026. The collection contains 15 distinct tractors in 15 p
 
 ## 13. John Deere 6030 Diesel — Enclosed Cab and Dual Rear Wheels
 
-![John Deere 6030 diesel](photos/13-john-deere-6030-diesel.jpg)
+<a href="photos/13-john-deere-6030-diesel.jpg"><img src="photos/13-john-deere-6030-diesel.jpg" alt="John Deere 6030 diesel" width="600"></a>
 
 - **Approximate year:** 1972–1977.
 - **Configuration:** Deere's largest conventional New Generation row-crop tractor, normally equipped with a turbocharged 8.7-liter six-cylinder diesel and rated near 175 PTO horsepower. This tractor has an enclosed cab and dual rear wheels.
@@ -108,7 +110,7 @@ Photographed July 11, 2026. The collection contains 15 distinct tractors in 15 p
 
 ## 14. John Deere 7520 Diesel — Articulated Four-Wheel Drive
 
-![John Deere 7520 diesel](photos/14-john-deere-7520-diesel.jpg)
+<a href="photos/14-john-deere-7520-diesel.jpg"><img src="photos/14-john-deere-7520-diesel.jpg" alt="John Deere 7520 diesel" width="600"></a>
 
 - **Approximate year:** 1972–1975.
 - **Configuration:** Large articulated four-wheel-drive tractor with an 8.7-liter six-cylinder diesel, enclosed cab, and approximately 175 PTO horsepower.
@@ -116,7 +118,7 @@ Photographed July 11, 2026. The collection contains 15 distinct tractors in 15 p
 
 ## 15. John Deere 4230 — Enclosed Cab
 
-![John Deere 4230 with cab](photos/15-john-deere-4230-cab.jpg)
+<a href="photos/15-john-deere-4230-cab.jpg"><img src="photos/15-john-deere-4230-cab.jpg" alt="John Deere 4230 with cab" width="600"></a>
 
 - **Approximate year:** 1973–1977.
 - **Configuration:** Generation II row-crop tractor with an enclosed cab. The photograph does not expose enough fuel-system hardware to confirm whether this tractor has the diesel or gasoline engine.
